@@ -40,7 +40,7 @@
       <pubDate>Wed, 20 Jan 2021 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</guid>
-      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+      <description>An indepth EDA and Dashboard</description>
     </item>
     
     <item>
@@ -49,7 +49,7 @@
       <pubDate>Thu, 31 Dec 2020 12:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</guid>
-      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+      <description>For More Info</description>
     </item>
     
     <item>
@@ -58,7 +58,7 @@
       <pubDate>Thu, 31 Dec 2020 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/sales-forecast/</guid>
-      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+      <description>Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  For detail explanation and visualization - Check here</description>
     </item>
     
     <item>
@@ -67,7 +67,7 @@
       <pubDate>Mon, 31 Aug 2020 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/object-detection/</guid>
-      <description> Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  </description>
+      <description>Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  Check full write up and User App</description>
     </item>
     
     <item>
@@ -85,7 +85,7 @@
       <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/decision-making-model/</guid>
-      <description> Using Statistical techniques and Bayesian networks, developed clusters to assess and categorize the risk exposure for stakeholders of the health insurance industry After exploratory analysis of the Texas Health Department data, using machine learning algorithms &amp;ndash; linear regression, K-means to device the risk predictions &amp;amp; clusters Devised a decision-making model for health insurance companies to assess their financial risk exposure from policyholders  </description>
+      <description>Using Statistical techniques and Bayesian networks, developed clusters to assess and categorize the risk exposure for stakeholders of the health insurance industry After exploratory analysis of the Texas Health Department data, using machine learning algorithms &amp;ndash; linear regression, K-means to device the risk predictions &amp;amp; clusters Devised a decision-making model for health insurance companies to assess their financial risk exposure from policyholders  Project Link</description>
     </item>
     
     <item>
@@ -94,7 +94,7 @@
       <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/cifar/</guid>
-      <description> Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  </description>
+      <description>Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  For full detail - Github</description>
     </item>
     
     <item>

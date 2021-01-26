@@ -13,7 +13,7 @@
       <pubDate>Mon, 31 Aug 2020 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/object-detection/</guid>
-      <description> Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  </description>
+      <description>Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  Check full write up and User App</description>
     </item>
     
     <item>
@@ -31,7 +31,7 @@
       <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/cifar/</guid>
-      <description> Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  </description>
+      <description>Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  For full detail - Github</description>
     </item>
     
   </channel>

@@ -13,7 +13,7 @@
       <pubDate>Thu, 31 Dec 2020 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/sales-forecast/</guid>
-      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+      <description>Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  For detail explanation and visualization - Check here</description>
     </item>
     
     <item>
@@ -22,7 +22,7 @@
       <pubDate>Mon, 31 Aug 2020 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/object-detection/</guid>
-      <description> Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  </description>
+      <description>Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  Check full write up and User App</description>
     </item>
     
   </channel>

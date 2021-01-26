@@ -22,7 +22,7 @@
       <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/cifar/</guid>
-      <description> Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  </description>
+      <description>Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  For full detail - Github</description>
     </item>
     
   </channel>
