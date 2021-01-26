@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>risk-analysis on Srujan Jabbireddy</title>
+    <link>https://srujanreddyj.github.io/portfolio/tags/risk-analysis/</link>
+    <description>Recent content in risk-analysis on Srujan Jabbireddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 31 Dec 2019 00:41:05 -0500</lastBuildDate><atom:link href="https://srujanreddyj.github.io/portfolio/tags/risk-analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Health Insurance Companies’ Risk Exposure</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/decision-making-model/</link>
+      <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/decision-making-model/</guid>
+      <description> Using Statistical techniques and Bayesian networks, developed clusters to assess and categorize the risk exposure for stakeholders of the health insurance industry After exploratory analysis of the Texas Health Department data, using machine learning algorithms &amp;ndash; linear regression, K-means to device the risk predictions &amp;amp; clusters Devised a decision-making model for health insurance companies to assess their financial risk exposure from policyholders  </description>
+    </item>
+    
+  </channel>
+</rss>
