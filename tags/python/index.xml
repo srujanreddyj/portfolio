@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>python on Srujan Jabbireddy</title>
+    <link>https://srujanreddyj.github.io/portfolio/tags/python/</link>
+    <description>Recent content in python on Srujan Jabbireddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Jan 2021 00:41:05 -0500</lastBuildDate><atom:link href="https://srujanreddyj.github.io/portfolio/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>NETFLIX Data Analysis and Visualization</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</link>
+      <pubDate>Wed, 20 Jan 2021 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</guid>
+      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection of Electricity usage</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</link>
+      <pubDate>Thu, 31 Dec 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</guid>
+      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+    </item>
+    
+    <item>
+      <title>Forecast of Sales of a Store</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/sales-forecast/</link>
+      <pubDate>Thu, 31 Dec 2020 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/sales-forecast/</guid>
+      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+    </item>
+    
+  </channel>
+</rss>

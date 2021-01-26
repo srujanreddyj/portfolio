@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Srujan Jabbireddy</title>
+    <link>https://srujanreddyj.github.io/portfolio/</link>
+    <description>Recent content in Home on Srujan Jabbireddy</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 10 Jan 2021 18:56:13 -0500</lastBuildDate><atom:link href="https://srujanreddyj.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Atlassian Deployment Triggers</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/contributions/deploy-triggers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/contributions/deploy-triggers/</guid>
+      <description>Addressed pretty significant page load performance issue founde in larger deployments. Eliminates uses of intensive backend query, replacing it with an asynchronous API call against a lucene index. This change reduces page load from from 2+ minutes to nearly instant, with an incredibly responsive UI.</description>
+    </item>
+    
+    <item>
+      <title>Added Docker Build Status Badge to shields.io</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/contributions/shields-docker/</link>
+      <pubDate>Tue, 07 Jan 2020 17:09:26 +0000</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/contributions/shields-docker/</guid>
+      <description>Shields.io is a massive library of badges that can be inserted into project README&amp;rsquo;s or websites displaying various statuses (code coverage, health, version, etc). Support for docker was missing the current build health, and was a pretty trivial addition.</description>
+    </item>
+    
+    <item>
+      <title>Schema.org Structured Data documentation fixes</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/contributions/schema-org/</link>
+      <pubDate>Tue, 07 Jan 2020 17:08:21 +0000</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/contributions/schema-org/</guid>
+      <description>While adding Structured Data to a client&amp;rsquo;s website I found some example JSON that was invalid. Simple contribution to cleanup the user documentation providing syntactically valid JSON documents.</description>
+    </item>
+    
+    <item>
+      <title>NETFLIX Data Analysis and Visualization</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</link>
+      <pubDate>Wed, 20 Jan 2021 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</guid>
+      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+    </item>
+    
+    <item>
+      <title>Anomaly Detection of Electricity usage</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</link>
+      <pubDate>Thu, 31 Dec 2020 12:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</guid>
+      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+    </item>
+    
+    <item>
+      <title>Forecast of Sales of a Store</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/sales-forecast/</link>
+      <pubDate>Thu, 31 Dec 2020 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/sales-forecast/</guid>
+      <description> Prediction of the sales for 30490 products in Walmart Store for 28 — 100 days into the future Comprehensive EDA with in depth visualization and developing qualitative visualizations using matplotlib and Plotly Developed and experimented with various forecasting models in Python on 9 hierarchical time-series models and was able to achieve max RMSE of 2.5 using the LightGBM model  </description>
+    </item>
+    
+    <item>
+      <title>Find Amenities in a House</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/object-detection/</link>
+      <pubDate>Mon, 31 Aug 2020 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/object-detection/</guid>
+      <description> Developed an end-to-end web application for detecting 30 household amenities using FlaskAPI and GCP Used YOLOv5 model architecture on collected Dataset and achieved a mAP@0.5-0.95 of 0.4 Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using transfer learning with COCO weights  </description>
+    </item>
+    
+    <item>
+      <title>Investigating Multimodal Density - Sampling Method</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/stat654/</link>
+      <pubDate>Fri, 01 May 2020 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/stat654/</guid>
+      <description>Implemented the Repelling-Attracting Metropolis Algorithm for sampling from posterior distribution in searching for unknown sensor locations within a network which produces a multimodal joint posterior distribution. Compared RAM with other optimization methods such as BFGS and Metropolis Hasting, in terms of speed and accuracy Implemented RAM on 7D Exoplanet detection problem to sample posterior using a time-series radial velocity dataset.  Github Repository</description>
+    </item>
+    
+    <item>
+      <title>Health Insurance Companies’ Risk Exposure</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/decision-making-model/</link>
+      <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/decision-making-model/</guid>
+      <description> Using Statistical techniques and Bayesian networks, developed clusters to assess and categorize the risk exposure for stakeholders of the health insurance industry After exploratory analysis of the Texas Health Department data, using machine learning algorithms &amp;ndash; linear regression, K-means to device the risk predictions &amp;amp; clusters Devised a decision-making model for health insurance companies to assess their financial risk exposure from policyholders  </description>
+    </item>
+    
+    <item>
+      <title>Image classification and Object Detection</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/cifar/</link>
+      <pubDate>Tue, 31 Dec 2019 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/cifar/</guid>
+      <description> Developed methods in R to predict images of CIFAR data consisting of 10 image classes Implemented machine learning algorithms - random forest, support vector machines, logistic regression in R; compared their performance and analysed the best fit model using dimensionality reduction (PCA) and cross-validation error Developed a convolution neural network using Keras in R for image classification task and achieved an accuracy of 85%  </description>
+    </item>
+    
+    <item>
+      <title>Forcing Visits to use SSL</title>
+      <link>https://srujanreddyj.github.io/portfolio/blog/force-ssl/</link>
+      <pubDate>Thu, 01 Jan 2009 14:09:10 +0000</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/blog/force-ssl/</guid>
+      <description>Intro Doesn&amp;rsquo;t matter whether it&amp;rsquo;s a CakePHP app for a client, your own personal CMS, or any other web based application. If your passing around passwords or other sensitive info you should really implement SSL. SSL provides 2 main perks to your visitors.
+ First it encrypts all communication that flies across the web. This prevents curious or devious billies from getting your secrets. Secondly it ensures to the user that your server is in fact who it claims, and not a nasty &amp;lsquo;man in the middle&amp;quot; attack.</description>
+    </item>
+    
+    <item>
+      <title>Search Results</title>
+      <link>https://srujanreddyj.github.io/portfolio/search/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/search/</guid>
+      <description>This file exists solely to respond to /search URL with the related search layout template.
+No content shown here is rendered, all content is based in the template layouts/page/search.html
+Setting a very low sitemap priority will tell search engines this is not important content.
+This implementation uses Fusejs, jquery and mark.js
+Initial setup Search depends on additional output content type of JSON in config.toml
+[outputs] home = [&amp;#34;HTML&amp;#34;, &amp;#34;JSON&amp;#34;] Searching additional fileds To search additional fields defined in front matter, you must add it in 2 places.</description>
+    </item>
+    
+  </channel>
+</rss>
