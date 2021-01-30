@@ -40,16 +40,16 @@
       <pubDate>Wed, 20 Jan 2021 00:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</guid>
-      <description>An indepth EDA and Dashboard</description>
+      <description>For an in-depth insights and Dashboard &amp;ndash;&amp;gt; Check out here</description>
     </item>
     
     <item>
-      <title>Anomaly Detection of Electricity usage</title>
+      <title>Anomaly Detection in Electricity Usage</title>
       <link>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</link>
       <pubDate>Thu, 31 Dec 2020 12:41:05 -0500</pubDate>
       
       <guid>https://srujanreddyj.github.io/portfolio/projects/creations/anomaly-detection/</guid>
-      <description>For More Info</description>
+      <description>Build a practical rule-based machine learning model to identify anomalies in electric consumption Using new extracted features from electric data, built a boosting models(XGBoost and Isolation Forest) that predicts consumption values for each day. Detected several anomaly patterns across the time-series data of 4 years with an accuracy of 0.7  For more of my insights</description>
     </item>
     
     <item>
