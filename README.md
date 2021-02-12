@@ -4,7 +4,7 @@ Portfolio Website
 
 ------
 
-***[Forecast the Sales of a Retail – M5 Competition](https://srujanreddyj.github.io/learnings/2021/01/29/anomaly.html)***  -- [#####Time-Series, Plotly, Python, LightGBM]
+***[Forecast the Sales of a Retail – M5 Competition](https://srujanreddyj.github.io/learnings/2021/01/29/anomaly.html)***  -- [Time-Series, Plotly, Python, LightGBM]
 * Forecasted the sales of 30490 products from a large dataset of Walmart Store for 28 — 100 days into the future.
 * Developed distinctive features with EDA and developed Insightful Visualizations using Matplotlib and Plotly.
 * Experimented with various forecasting models on 9 Hierarchical Time-Series models and was able to forecast sales using the LightGBM model with 60% accuracy.
