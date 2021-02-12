@@ -22,7 +22,7 @@ Finding Amenities in a house (Object Detection using Deep Learning) [FlaskAPI, G
 * Improved model Precision to 43% and mAP@0.5-0.95 to 0.5 using Transfer Learning with COCO weights.
 
 
-NETFLIX Data Analysis and Visualization[https://project-visual-1.herokuapp.com/] [Dashboard, Plotly, Dash]
+***[NETFLIX Data Analysis and Visualization](https://project-visual-1.herokuapp.com/)*** -- [Dashboard, Plotly, Dash]
 * Interpreted and Assessed the data to identify key insights and metrics and developed a Dashboard using Python, Plotly, Dash.
 
 
