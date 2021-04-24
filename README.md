@@ -10,8 +10,8 @@ Portfolio Website
 * Created automated data pipelines using Apache Airflow with thorough data quality checks and ability to run scheduled jobs.
 
 ***[ETL Pipeline for Sparkify](https://github.com/srujanreddyj/Data-Engineering-concepts)*** -- Apache Cassandra, PostgreSQL, Spark, S3, EMR, AWS Redshift
-•	Built an ETL pipeline for a Data Lake to allow analytics teams to find insights into what songs Sparkify users are listening to
-•	Extracted data hosted on S3 and process the data into analytics tables using Spark, and load them back into S3
+* Built an ETL pipeline for a Data Lake to allow analytics teams to find insights into what songs Sparkify users are listening to
+* Extracted data hosted on S3 and process the data into analytics tables using Spark, and load them back into S3
 
 
 ***[Forecast the Sales of a Retail – M5 Competition](https://srujanreddyj.github.io/portfolio/2020/09/25/M5_1.html)***  -- [Time-Series, Plotly, Python, LightGBM]
