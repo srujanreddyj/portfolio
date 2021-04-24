@@ -35,6 +35,24 @@
     </item>
     
     <item>
+      <title>Data Pipeline for Airbnb Data</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/de_airbnb/</link>
+      <pubDate>Thu, 15 Apr 2021 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/de_airbnb/</guid>
+      <description>Developed a Data Pipeline that creates an analytical database for querying information about the reviews and ratings of Airbnb listings Built an ETL Pipeline that extracts relevant data from S3 Bucket and load it to Data Warehouse, stages them in Redshift cluster, and transforming the data for usage of analytics teams. Created automated data pipelines using Apache Airflow with thorough data quality checks and ability to run scheduled jobs. Implemented the Repelling-Attracting Metropolis Algorithm for sampling from posterior distribution in searching for unknown sensor locations within a network which produces a multimodal joint posterior distribution.</description>
+    </item>
+    
+    <item>
+      <title>ETL for Sparkify Data</title>
+      <link>https://srujanreddyj.github.io/portfolio/projects/creations/etl_sparkify/</link>
+      <pubDate>Thu, 01 Apr 2021 00:41:05 -0500</pubDate>
+      
+      <guid>https://srujanreddyj.github.io/portfolio/projects/creations/etl_sparkify/</guid>
+      <description>Built an ETL pipeline for a Data Lake to allow analytics teams to find insights into what songs Sparkify users are listening to Extracted data hosted on S3 and process the data into analytics tables using Spark, and load them back into S3  Github Repository</description>
+    </item>
+    
+    <item>
       <title>NETFLIX Data Analysis and Visualization</title>
       <link>https://srujanreddyj.github.io/portfolio/projects/creations/netflix_eda/</link>
       <pubDate>Wed, 20 Jan 2021 00:41:05 -0500</pubDate>
