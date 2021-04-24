@@ -4,6 +4,18 @@ Portfolio Website
 
 ------
 
+***[DataPipeline for Airbnb Data](https://github.com/srujanreddyj/Data-Engineering-concepts/blob/master/airbnb_capstone/README.md)***
+Skills: [PostgreSQL, Spark, AWS Redshift, Airflow]
+* Developed a Data Pipeline that creates an analytical database for querying information about the reviews and ratings of Airbnb listings
+* Built an ETL Pipeline that extracts relevant data from S3 Bucket and load it to Data Warehouse, stages them in Redshift cluster, and transforming the data for usage of analytics teams.
+* Created automated data pipelines using Apache Airflow with thorough data quality checks and ability to run scheduled jobs.
+
+***[ETL Pipeline for Sparkify](https://github.com/srujanreddyj/Data-Engineering-concepts)***
+Skill: Apache Cassandra, PostgreSQL, Spark, S3, EMR, AWS Redshift
+•	Built an ETL pipeline for a Data Lake to allow analytics teams to find insights into what songs Sparkify users are listening to
+•	Extracted data hosted on S3 and process the data into analytics tables using Spark, and load them back into S3
+
+
 ***[Forecast the Sales of a Retail – M5 Competition](https://srujanreddyj.github.io/portfolio/2020/09/25/M5_1.html)***  -- [Time-Series, Plotly, Python, LightGBM]
 * Forecasted the sales of 30490 products from a large dataset of Walmart Store for 28 — 100 days into the future.
 * Developed distinctive features with EDA and developed Insightful Visualizations using Matplotlib and Plotly.
